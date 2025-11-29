@@ -1,0 +1,15 @@
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
+.DS_Store?
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Resource forks
+._*
+
+# Trash & Spotlight
+.Trashes
+.Spotlight-V100
