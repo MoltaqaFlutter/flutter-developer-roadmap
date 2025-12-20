@@ -24,6 +24,7 @@
 - Git.
 - Dart oop and flutter ui princples .
 - Bloc and cubit.
+- Know about [Solid Prinsples](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
 
 ## 📚 Core Concepts You Will Learn
 - **Clean Architecture** (Applied practically).

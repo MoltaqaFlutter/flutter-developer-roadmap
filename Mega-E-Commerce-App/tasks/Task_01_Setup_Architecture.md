@@ -84,3 +84,7 @@ lib/features/product/
 - [Variable X - Service Locator](https://www.youtube.com/watch?v=FsNrNfj5jPI&list=PL9uUr_gWuqBDi7AMwQ1shSM2ZCcqMW7Q0&index=4)
 
 
+#### More Prepare With Make Strong Knowlage With Solid
+- [Omar Ahmed - Solid Prinsples](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
+
