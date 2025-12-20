@@ -32,3 +32,7 @@
 - **Dio** for Networking.
 - **GetIt** for Dependency Injection.
 - **Flutter UI** (Slivers, Animations, Theming).
+
+## Api
+- [dummyjson](https://dummyjson.com/custom-response)
+- [Fake Shopapi](https://fake-shopapi.netlify.app/docs/auth)
