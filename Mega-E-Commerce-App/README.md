@@ -6,7 +6,8 @@
 <br>
 
 - [Figma Design](https://www.figma.com/design/NLUuoV9ZlKnhzK4V9dIBi7/Moltaqa-Intern---Ecommerce-Mobile-App-UI?node-id=221-117&t=fFYBVRV9VKjfrY40-1)
-- This 5-day intensive course is designed to teach you how to build production-ready apps by building a complete **E-commerce Application**.
+- [Postman Collection](postman/mega_ecommerce_backend.postman_collection.json)
+- This course is designed to teach you how to build production-ready apps by building a complete **E-commerce Application**.
 - Learn more about steps to make app stracture
 - Implement complex ui with mental chalanges
 - You will build a full feature (Favorites , Cart , etc..).
