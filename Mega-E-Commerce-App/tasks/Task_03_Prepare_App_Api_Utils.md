@@ -22,6 +22,7 @@ Prepare app api utils like failure , api service , dio , exeption handlers
 - Add lib/core/data/data_source/cached_authenticated_data_source.dart
 - Add lib/core/data/domain/cached_authenticated_repository.dart
 - **Task**: 
+  - The main task to save , get , delete senstive data for each (token && user)
   - Add [flutter_secure_storage](https://pub.dev/packages/flutter_secure_storage) and use for cache sensitive data
   - Make class TokenEntity that represent cahed token in domain and TokenModel in data extends from TokenEntity
   - Also make class CachedUserEntity that represent cache for requied user data [like id,name,..] in domain and CachedUserModel in data extends from CachedUserEntity
