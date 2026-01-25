@@ -1,4 +1,4 @@
-# Task 3: Prepare App Api Utils
+# Task 3: Menu && Account mangement && Static pages
 
 ## 🎯 Goal
 Make menu feature or more (privacy and personal profile , etc ...)

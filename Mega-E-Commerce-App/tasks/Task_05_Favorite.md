@@ -1,4 +1,4 @@
-# Task 3: Prepare App Api Utils
+# Task 3: Favorites
 
 ## 🎯 Goal
 Manage favorite feature and refactor its logic.
